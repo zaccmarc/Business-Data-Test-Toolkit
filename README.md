@@ -43,7 +43,7 @@ O Mínimo Produto Viável (MVP) será focado em entregar um fluxo completo de an
         * Cálculo de significância estatística (p-valor).
     * Apresentação clara dos resultados para tomada de decisão.
 
-### 🗺️ Fluxo de Experiência do Usuário (UX)
+### Fluxo de Experiência do Usuário (UX)
 
 A interface será uma **página única (Single-Page Application)**, totalmente focada em desktop, com a jornada do usuário dividida em blocos sequenciais.
 
